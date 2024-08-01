@@ -1,0 +1,31 @@
+name: release
+
+on:
+  push:
+    branches: ["alpine"]
+  workflow_dispatch:
+
+concurrency:
+  group: release-${{ github.ref_name }}
+
+env:
+  CARGO_TERM_COLOR: always
+  CARGO_INCREMENTAL: 0
+  DRY_RUN: ${{ startsWith(github.event.ref, 'refs/tags/v') && '0' || '1' }}
+
+jobs:
+  bump-alpine:
+    runs-on: ubuntu-22.04
+    container: ghcr.io/jdx/mise:alpine
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Bump APKBUILD
+        run: sudo -Eu packager ./scripts/release-alpine.sh
+        env:
+          ALPINE_GITLAB_TOKEN: ${{ secrets.ALPINE_GITLAB_TOKEN }}
+          ALPINE_KEY_ID: ${{ secrets.ALPINE_KEY_ID }}
+          ALPINE_PRIV_KEY: ${{ secrets.ALPINE_PRIV_KEY }}
+          ALPINE_PUB_KEY: ${{ secrets.ALPINE_PUB_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
