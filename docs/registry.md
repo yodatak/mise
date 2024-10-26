@@ -1,13 +1,16 @@
 ---
 editLink: false
 ---
+
+# Registry
+
 | Short | Full |
 | ----------- | --------------- |
 | 1password-cli | [asdf:NeoHsu/asdf-1password-cli](https://github.com/NeoHsu/asdf-1password-cli) |
 | aapt2 | [asdf:ronnnnn/asdf-aapt2](https://github.com/ronnnnn/asdf-aapt2) |
-| act | [asdf:gr1m0h/asdf-act](https://github.com/gr1m0h/asdf-act) |
+| act | [ubi:nektos/act](https://github.com/nektos/act) |
 | action-validator | [asdf:mpalmer/action-validator](https://github.com/mpalmer/action-validator) |
-| actionlint | [asdf:crazy-matt/asdf-actionlint](https://github.com/crazy-matt/asdf-actionlint) |
+| actionlint | [ubi:rhysd/actionlint](https://github.com/rhysd/actionlint) |
 | adr-tools | [asdf:https://gitlab.com/td7x/asdf/adr-tools](https://gitlab.com/td7x/asdf/adr-tools) |
 | ag | [asdf:koketani/asdf-ag](https://github.com/koketani/asdf-ag) |
 | age | [asdf:threkk/asdf-age](https://github.com/threkk/asdf-age) |
@@ -23,11 +26,12 @@ editLink: false
 | ambient | [asdf:jtakakura/asdf-ambient](https://github.com/jtakakura/asdf-ambient) |
 | ansible-base | [asdf:amrox/asdf-pyapp](https://github.com/amrox/asdf-pyapp) |
 | ant | [asdf:jackboespflug/asdf-ant](https://github.com/jackboespflug/asdf-ant) |
-| apko | [asdf:omissis/asdf-apko](https://github.com/omissis/asdf-apko) |
+| apko | [ubi:chainguard-dev/apko](https://github.com/chainguard-dev/apko) |
 | apollo-ios-cli | [asdf:MacPaw/asdf-apollo-ios-cli](https://github.com/MacPaw/asdf-apollo-ios-cli) |
 | apollo-router | [asdf:safx/asdf-apollo-router](https://github.com/safx/asdf-apollo-router) |
 | arc | [asdf:ORCID/asdf-arc](https://github.com/ORCID/asdf-arc) |
 | arduino-cli | [asdf:egnor/asdf-arduino-cli](https://github.com/egnor/asdf-arduino-cli) |
+| argc | [ubi:sigoden/argc](https://github.com/sigoden/argc) |
 | argo | [asdf:sudermanjr/asdf-argo](https://github.com/sudermanjr/asdf-argo) |
 | argo-rollouts | [asdf:abatilo/asdf-argo-rollouts](https://github.com/abatilo/asdf-argo-rollouts) |
 | argocd | [asdf:beardix/asdf-argocd](https://github.com/beardix/asdf-argocd) |
@@ -95,8 +99,8 @@ editLink: false
 | certstrap | [asdf:carnei-ro/asdf-certstrap](https://github.com/carnei-ro/asdf-certstrap) |
 | cf | [asdf:mattysweeps/asdf-cf](https://github.com/mattysweeps/asdf-cf) |
 | cfssl | [asdf:mathew-fleisch/asdf-cfssl](https://github.com/mathew-fleisch/asdf-cfssl) |
-| chamber | [asdf:mintel/asdf-chamber](https://github.com/mintel/asdf-chamber) |
-| changie | [asdf:pdemagny/asdf-changie](https://github.com/pdemagny/asdf-changie) |
+| chamber | [ubi:segmentio/chamber](https://github.com/segmentio/chamber) |
+| changie | [ubi:miniscruff/changie](https://github.com/miniscruff/changie) |
 | cheat | [asdf:jmoratilla/asdf-cheat-plugin](https://github.com/jmoratilla/asdf-cheat-plugin) |
 | checkov | [asdf:bosmak/asdf-checkov](https://github.com/bosmak/asdf-checkov) |
 | chezmoi | [asdf:joke/asdf-chezmoi](https://github.com/joke/asdf-chezmoi) |
@@ -151,7 +155,7 @@ editLink: false
 | crossplane-cli | [asdf:joke/asdf-crossplane-cli](https://github.com/joke/asdf-crossplane-cli) |
 | crystal | [asdf:asdf-community/asdf-crystal](https://github.com/asdf-community/asdf-crystal) |
 | ctlptl | [asdf:ezcater/asdf-ctlptl](https://github.com/ezcater/asdf-ctlptl) |
-| ctop | [asdf:NeoHsu/asdf-ctop](https://github.com/NeoHsu/asdf-ctop) |
+| ctop | [ubi:bcicen/ctop](https://github.com/bcicen/ctop) |
 | cue | [asdf:asdf-community/asdf-cue](https://github.com/asdf-community/asdf-cue) |
 | cyclonedx | [asdf:xeedio/asdf-cyclonedx](https://github.com/xeedio/asdf-cyclonedx) |
 | dagger | [asdf:virtualstaticvoid/asdf-dagger](https://github.com/virtualstaticvoid/asdf-dagger) |
@@ -172,13 +176,13 @@ editLink: false
 | difftastic | [asdf:volf52/asdf-difftastic](https://github.com/volf52/asdf-difftastic) |
 | digdag | [asdf:jtakakura/asdf-digdag](https://github.com/jtakakura/asdf-digdag) |
 | direnv | [asdf:asdf-community/asdf-direnv](https://github.com/asdf-community/asdf-direnv) |
-| dive | [asdf:looztra/asdf-dive](https://github.com/looztra/asdf-dive) |
+| dive | [ubi:wagoodman/dive](https://github.com/wagoodman/dive) |
 | djinni | [asdf:cross-language-cpp/asdf-djinni](https://github.com/cross-language-cpp/asdf-djinni) |
 | dmd | [asdf:sylph01/asdf-dmd](https://github.com/sylph01/asdf-dmd) |
 | docker-compose-v1 | [asdf:yilas/asdf-docker-compose-v1](https://github.com/yilas/asdf-docker-compose-v1) |
 | docker-slim | [asdf:xataz/asdf-docker-slim](https://github.com/xataz/asdf-docker-slim) |
 | dockle | [asdf:mathew-fleisch/asdf-dockle](https://github.com/mathew-fleisch/asdf-dockle) |
-| doctl | [asdf:maristgeek/asdf-doctl](https://github.com/maristgeek/asdf-doctl) |
+| doctl | [ubi:digitalocean/doctl](https://github.com/digitalocean/doctl) |
 | doctoolchain | [asdf:joschi/asdf-doctoolchain](https://github.com/joschi/asdf-doctoolchain) |
 | docuum | [asdf:bradym/asdf-docuum](https://github.com/bradym/asdf-docuum) |
 | dome | [asdf:jtakakura/asdf-dome](https://github.com/jtakakura/asdf-dome) |
@@ -232,7 +236,7 @@ editLink: false
 | flux2 | [asdf:tablexi/asdf-flux2](https://github.com/tablexi/asdf-flux2) |
 | fluxctl | [asdf:stefansedich/asdf-fluxctl](https://github.com/stefansedich/asdf-fluxctl) |
 | fly | [asdf:vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf) |
-| flyctl | [asdf:chessmango/asdf-flyctl](https://github.com/chessmango/asdf-flyctl) |
+| flyctl | [ubi:superfly/flyctl](https://github.com/superfly/flyctl) |
 | flyway | [asdf:junminahn/asdf-flyway](https://github.com/junminahn/asdf-flyway) |
 | func-e | [asdf:carnei-ro/asdf-func-e](https://github.com/carnei-ro/asdf-func-e) |
 | furyctl | [asdf:sighupio/asdf-furyctl](https://github.com/sighupio/asdf-furyctl) |
@@ -292,11 +296,11 @@ editLink: false
 | groovy | [asdf:weibemoura/asdf-groovy](https://github.com/weibemoura/asdf-groovy) |
 | grpc-health-probe | [asdf:zufardhiyaulhaq/asdf-grpc-health-probe](https://github.com/zufardhiyaulhaq/asdf-grpc-health-probe) |
 | grpcurl | [asdf:asdf-community/asdf-grpcurl](https://github.com/asdf-community/asdf-grpcurl) |
-| grype | [asdf:poikilotherm/asdf-grype](https://github.com/poikilotherm/asdf-grype) |
+| grype | [ubi:anchore/grype](https://github.com/anchore/grype) |
 | guile | [asdf:indiebrain/asdf-guile](https://github.com/indiebrain/asdf-guile) |
 | gum | [asdf:lwiechec/asdf-gum](https://github.com/lwiechec/asdf-gum) |
 | gwvault | [asdf:GoodwayGroup/asdf-gwvault](https://github.com/GoodwayGroup/asdf-gwvault) |
-| hadolint | [asdf:devlincashman/asdf-hadolint](https://github.com/devlincashman/asdf-hadolint) |
+| hadolint | [ubi:hadolint/hadolint](https://github.com/hadolint/hadolint) |
 | hamler | [asdf:scudelletti/asdf-hamler](https://github.com/scudelletti/asdf-hamler) |
 | has | [asdf:sylvainmetayer/asdf-has](https://github.com/sylvainmetayer/asdf-has) |
 | haskell | [asdf:asdf-community/asdf-haskell](https://github.com/asdf-community/asdf-haskell) |
@@ -309,8 +313,8 @@ editLink: false
 | helm-ct | [asdf:tablexi/asdf-helm-ct](https://github.com/tablexi/asdf-helm-ct) |
 | helm-diff | [asdf:dex4er/asdf-helm-diff](https://github.com/dex4er/asdf-helm-diff) |
 | helm-docs | [asdf:sudermanjr/asdf-helm-docs](https://github.com/sudermanjr/asdf-helm-docs) |
-| helmfile | [asdf:feniix/asdf-helmfile](https://github.com/feniix/asdf-helmfile) |
-| helmsman | [asdf:luisdavim/asdf-helmsman](https://github.com/luisdavim/asdf-helmsman) |
+| helmfile | [ubi:helmfile/helmfile](https://github.com/helmfile/helmfile) |
+| helmsman | [ubi:Praqma/helmsman](https://github.com/Praqma/helmsman) |
 | heroku-cli | [asdf:mise-plugins/mise-heroku-cli](https://github.com/mise-plugins/mise-heroku-cli) |
 | hey | [asdf:raimon49/asdf-hey](https://github.com/raimon49/asdf-hey) |
 | hishtory | [asdf:asdf-community/asdf-hishtory](https://github.com/asdf-community/asdf-hishtory) |
@@ -371,12 +375,12 @@ editLink: false
 | kcl | [asdf:starkers/asdf-kcl](https://github.com/starkers/asdf-kcl) |
 | kconf | [asdf:particledecay/asdf-kconf](https://github.com/particledecay/asdf-kconf) |
 | ki | [asdf:comdotlinux/asdf-ki](https://github.com/comdotlinux/asdf-ki) |
-| kind | [asdf:johnlayton/asdf-kind](https://github.com/johnlayton/asdf-kind) |
+| kind | [ubi:kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) |
 | kiota | [asdf:asdf-community/asdf-kiota](https://github.com/asdf-community/asdf-kiota) |
 | kn | [asdf:joke/asdf-kn](https://github.com/joke/asdf-kn) |
 | ko | [asdf:zasdaym/asdf-ko](https://github.com/zasdaym/asdf-ko) |
 | koka | [asdf:susurri/asdf-koka](https://github.com/susurri/asdf-koka) |
-| kompose | [asdf:technikhil314/asdf-kompose](https://github.com/technikhil314/asdf-kompose) |
+| kompose | [ubi:kubernetes/kompose](https://github.com/kubernetes/kompose) |
 | kops | [asdf:Antiarchitect/asdf-kops](https://github.com/Antiarchitect/asdf-kops) |
 | kotlin | [asdf:asdf-community/asdf-kotlin](https://github.com/asdf-community/asdf-kotlin) |
 | kp | [asdf:vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf) |
@@ -424,7 +428,7 @@ editLink: false
 | lane | [asdf:CodeReaper/asdf-lane](https://github.com/CodeReaper/asdf-lane) |
 | lazygit | [asdf:nklmilojevic/asdf-lazygit](https://github.com/nklmilojevic/asdf-lazygit) |
 | lean | [asdf:asdf-community/asdf-lean](https://github.com/asdf-community/asdf-lean) |
-| lefthook | [asdf:jtzero/asdf-lefthook](https://github.com/jtzero/asdf-lefthook) |
+| lefthook | [ubi:evilmartians/lefthook](https://github.com/evilmartians/lefthook) |
 | leiningen | [asdf:miorimmax/asdf-lein](https://github.com/miorimmax/asdf-lein) |
 | levant | [asdf:asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp) |
 | lfe | [asdf:asdf-community/asdf-lfe](https://github.com/asdf-community/asdf-lfe) |
@@ -451,7 +455,7 @@ editLink: false
 | make | [asdf:yacchi/asdf-make](https://github.com/yacchi/asdf-make) |
 | mani | [asdf:anweber/asdf-mani](https://github.com/anweber/asdf-mani) |
 | mark | [asdf:jfreeland/asdf-mark](https://github.com/jfreeland/asdf-mark) |
-| markdownlint-cli2 | [asdf:paulo-ferraz-oliveira/asdf-markdownlint-cli2](https://github.com/paulo-ferraz-oliveira/asdf-markdownlint-cli2) |
+| markdownlint-cli2 | [npm:markdownlint-cli2](https://www.npmjs.com/package/markdownlint-cli2) |
 | marp-cli | [asdf:xataz/asdf-marp-cli](https://github.com/xataz/asdf-marp-cli) |
 | mask | [asdf:aaaaninja/asdf-mask](https://github.com/aaaaninja/asdf-mask) |
 | maven | [asdf:mise-plugins/asdf-maven](https://github.com/mise-plugins/asdf-maven) |
@@ -477,6 +481,7 @@ editLink: false
 | mlton | [asdf:asdf-community/asdf-mlton](https://github.com/asdf-community/asdf-mlton) |
 | mockery | [asdf:cabify/asdf-mockery](https://github.com/cabify/asdf-mockery) |
 | mockolo | [asdf:MontakOleg/asdf-mockolo](https://github.com/MontakOleg/asdf-mockolo) |
+| mold | [ubi:rui314/mold](https://github.com/rui314/mold) |
 | monarch | [asdf:nyuyuyu/asdf-monarch](https://github.com/nyuyuyu/asdf-monarch) |
 | mongo-tools | [asdf:itspngu/asdf-mongo-tools](https://github.com/itspngu/asdf-mongo-tools) |
 | mongodb | [asdf:sylph01/asdf-mongodb](https://github.com/sylph01/asdf-mongodb) |
@@ -491,7 +496,7 @@ editLink: false
 | neovim | [asdf:richin13/asdf-neovim](https://github.com/richin13/asdf-neovim) |
 | nerdctl | [asdf:dmpe/asdf-nerdctl](https://github.com/dmpe/asdf-nerdctl) |
 | newrelic-cli | [asdf:NeoHsu/asdf-newrelic-cli](https://github.com/NeoHsu/asdf-newrelic-cli) |
-| nfpm | [asdf:ORCID/asdf-nfpm](https://github.com/ORCID/asdf-nfpm) |
+| nfpm | [ubi:goreleaser/nfpm](https://github.com/goreleaser/nfpm) |
 | nim | [asdf:asdf-community/asdf-nim](https://github.com/asdf-community/asdf-nim) |
 | ninja | [asdf:asdf-community/asdf-ninja](https://github.com/asdf-community/asdf-ninja) |
 | nomad | [asdf:asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp) |
@@ -540,7 +545,7 @@ editLink: false
 | pivnet | [asdf:vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf) |
 | pkl | [asdf:mise-plugins/asdf-pkl](https://github.com/mise-plugins/asdf-pkl) |
 | please | [asdf:asdf-community/asdf-please](https://github.com/asdf-community/asdf-please) |
-| pluto | [asdf:FairwindsOps/asdf-pluto](https://github.com/FairwindsOps/asdf-pluto) |
+| pluto | [ubi:FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) |
 | pnpm | [asdf:jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm) |
 | podman | [asdf:tvon/asdf-podman](https://github.com/tvon/asdf-podman) |
 | poetry | [asdf:mise-plugins/mise-poetry](https://github.com/mise-plugins/mise-poetry) |
@@ -552,6 +557,7 @@ editLink: false
 | powershell-core | [asdf:daveneeley/asdf-powershell-core](https://github.com/daveneeley/asdf-powershell-core) |
 | pre-commit | [asdf:jonathanmorley/asdf-pre-commit](https://github.com/jonathanmorley/asdf-pre-commit) |
 | promtool | [asdf:asdf-community/asdf-promtool](https://github.com/asdf-community/asdf-promtool) |
+| protobuf | [vfox:ahai-code/vfox-protobuf](https://github.com/ahai-code/vfox-protobuf) |
 | protoc | [asdf:paxosglobal/asdf-protoc](https://github.com/paxosglobal/asdf-protoc) |
 | protoc-gen-connect-go | [asdf:dylanrayboss/asdf-protoc-gen-connect-go](https://github.com/dylanrayboss/asdf-protoc-gen-connect-go) |
 | protoc-gen-go | [asdf:pbr0ck3r/asdf-protoc-gen-go](https://github.com/pbr0ck3r/asdf-protoc-gen-go) |
@@ -620,7 +626,7 @@ editLink: false
 | serverless | [asdf:pdemagny/asdf-serverless](https://github.com/pdemagny/asdf-serverless) |
 | setup-envtest | [asdf:pmalek/mise-setup-envtest](https://github.com/pmalek/mise-setup-envtest) |
 | shell2http | [asdf:ORCID/asdf-shell2http](https://github.com/ORCID/asdf-shell2http) |
-| shellcheck | [asdf:luizm/asdf-shellcheck](https://github.com/luizm/asdf-shellcheck) |
+| shellcheck | [ubi:koalaman/shellcheck](https://github.com/koalaman/shellcheck) |
 | shellspec | [asdf:poikilotherm/asdf-shellspec](https://github.com/poikilotherm/asdf-shellspec) |
 | shfmt | [asdf:luizm/asdf-shfmt](https://github.com/luizm/asdf-shfmt) |
 | shorebird | [asdf:valian-ca/asdf-shorebird](https://github.com/valian-ca/asdf-shorebird) |
@@ -730,11 +736,12 @@ editLink: false
 | typos | [asdf:aschiavon91/asdf-typos](https://github.com/aschiavon91/asdf-typos) |
 | typst | [asdf:stephane-klein/asdf-typst](https://github.com/stephane-klein/asdf-typst) |
 | uaa-cli | [asdf:vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf) |
+| ubi | [ubi:houseabsolute/ubi](https://github.com/houseabsolute/ubi) |
 | unison | [asdf:susurri/asdf-unison](https://github.com/susurri/asdf-unison) |
 | updatecli | [asdf:updatecli/asdf-updatecli](https://github.com/updatecli/asdf-updatecli) |
 | upt | [asdf:ORCID/asdf-upt](https://github.com/ORCID/asdf-upt) |
 | upx | [asdf:jimmidyson/asdf-upx](https://github.com/jimmidyson/asdf-upx) |
-| usage | [asdf:jdx/mise-usage](https://github.com/jdx/mise-usage) |
+| usage | [ubi:jdx/usage](https://github.com/jdx/usage) |
 | usql | [asdf:itspngu/asdf-usql](https://github.com/itspngu/asdf-usql) |
 | uv | [asdf:asdf-community/asdf-uv](https://github.com/asdf-community/asdf-uv) |
 | v | [asdf:jthegedus/asdf-v](https://github.com/jthegedus/asdf-v) |
@@ -751,6 +758,7 @@ editLink: false
 | viddy | [asdf:ryodocx/asdf-viddy](https://github.com/ryodocx/asdf-viddy) |
 | vim | [asdf:tsuyoshicho/asdf-vim](https://github.com/tsuyoshicho/asdf-vim) |
 | virtualos | [asdf:tuist/asdf-virtualos](https://github.com/tuist/asdf-virtualos) |
+| vlang | [vfox:ahai-code/vfox-vlang](https://github.com/ahai-code/vfox-vlang) |
 | vlt | [asdf:asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp) |
 | vultr-cli | [asdf:ikuradon/asdf-vultr-cli](https://github.com/ikuradon/asdf-vultr-cli) |
 | wasi-sdk | [asdf:coolreader18/asdf-wasi-sdk](https://github.com/coolreader18/asdf-wasi-sdk) |
@@ -781,7 +789,7 @@ editLink: false
 | yj | [asdf:ryodocx/asdf-yj](https://github.com/ryodocx/asdf-yj) |
 | yor | [asdf:ordinaryexperts/asdf-yor](https://github.com/ordinaryexperts/asdf-yor) |
 | youtube-dl | [asdf:iul1an/asdf-youtube-dl](https://github.com/iul1an/asdf-youtube-dl) |
-| yq | [asdf:sudermanjr/asdf-yq](https://github.com/sudermanjr/asdf-yq) |
+| yq | [ubi:mikefarah/yq](https://github.com/mikefarah/yq) |
 | yt-dlp | [asdf:duhow/asdf-yt-dlp](https://github.com/duhow/asdf-yt-dlp) |
 | ytt | [asdf:vmware-tanzu/asdf-carvel](https://github.com/vmware-tanzu/asdf-carvel) |
 | zbctl | [asdf:camunda-community-hub/asdf-zbctl](https://github.com/camunda-community-hub/asdf-zbctl) |
